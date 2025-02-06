@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+Go Food is a food ordering app, Build using MERN stack 
+mongodb and express js are used for backend
+all the data of users,food,user's orders are stored in the mongodb cloud
+Features of Application:
+A user can Login if he/she is existing user , 
+user can Signup if he/she is new user
+It has feature of search bar where user can search according to the search the reated items are displayed 
+user can add items into cart and quantity is specified(half/full)
+by seeing my cart user can know what they ordered then they can checkout
+after checkout if they want to access their previous orders they can see in My orders
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![Screenshot 2025-02-06 205130](https://github.com/user-attachments/assets/e4a41f5a-cefc-43f2-b884-eb6863d80f41)
 
-In the project directory, you can run:
 
-### `npm start`
+![Screenshot 2025-02-06 204801](https://github.com/user-attachments/assets/4cab1cd2-6499-49f9-aeac-3536d81e4529)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot 2025-02-06 204921](https://github.com/user-attachments/assets/bff50f9d-3c40-4476-b22c-587145bd6db0)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot 2025-02-06 205059](https://github.com/user-attachments/assets/dd4309b8-dd9b-4c2b-864b-31c42e2275e5)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 2025-02-06 204815](https://github.com/user-attachments/assets/0a4df002-f712-4299-bcc4-e4e1e13342bc)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot 2025-02-06 205005](https://github.com/user-attachments/assets/a14946d6-4a8d-4482-9458-baabe743244a)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
